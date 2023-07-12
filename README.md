@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @brunoruiztalamo
-- 👀 I’m interested in Coding and Programming
-- 🌱 I’m currently learning Python (QA testing and Software Development)
+- 👋 Hi, I’m Bruno Ruiz Talamo.
+- 🌍 I'm from Mar del Plata, Buenos Aires, Argentina.
+- 👀 I’m interested in coding apps, websites, games or anything useful or entertaining to the world.
+- 👍 My dream is to take part in a worldwide known app or project.
+- 🌱 I’m currently learning Python (QA testing, Web Development, Web Scraping and Software Development)
 - 💞️ I’m looking to collaborate on any project!
 - 📫 How to reach me:
 - mail = brunoruiztalamo@icloud.com
