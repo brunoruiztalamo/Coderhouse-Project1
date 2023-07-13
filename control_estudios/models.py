@@ -1,5 +1,7 @@
 from django.db import models
 
+
+
 class Curso(models.Model):
     # los atributos de clase (son las columnas de la tabla)
     nombre = models.CharField(max_length=64)
